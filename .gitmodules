@@ -1,0 +1,6 @@
+[submodule "BlueImpFileUpload"]
+	path = BlueImpFileUpload
+	url = https://github.com/GedMarc/JWebMP-BlueImpFileUpload.git
+[submodule "BlueImpGallery"]
+	path = BlueImpGallery
+	url = https://github.com/GedMarc/JWebMP-BlueImpGallery.git
