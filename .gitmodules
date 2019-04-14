@@ -1,6 +1,8 @@
 [submodule "BlueImpFileUpload"]
 	path = BlueImpFileUpload
 	url = https://github.com/GedMarc/JWebMP-BlueImpFileUpload.git
+	ignore=dirty
 [submodule "BlueImpGallery"]
 	path = BlueImpGallery
 	url = https://github.com/GedMarc/JWebMP-BlueImpGallery.git
+	ignore=dirty
