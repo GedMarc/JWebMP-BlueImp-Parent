@@ -13,14 +13,9 @@
     <name>BlueImp Modules</name>
     <description>The root module packager for BlueImp's implemented modules</description>
 
-    <profiles>
-        <profile>
-            <id>devkit</id>
-            <modules>
-                <module>BlueImpFileUpload</module>
-                <module>BlueImpGallery</module>
-            </modules>
-        </profile>
-    </profiles>
+    <modules>
+        <module>BlueImpFileUpload</module>
+        <module>BlueImpGallery</module>
+    </modules>
 
 </project>
