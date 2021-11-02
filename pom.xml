@@ -12,6 +12,8 @@
     <artifactId>jwebmp-plugins-blueimp-parent</artifactId>
     <packaging>pom</packaging>
 
+    <version>0.0.0_0-SNAPSHOT</version>
+
     <name>BlueImp Modules</name>
     <description>The root module packager for BlueImp's implemented modules</description>
 
